@@ -3,6 +3,10 @@
 
 library(XML)
 
+
+install.packages(c('XML','magrittr'))
+
+
 # Lê o site da web, linha por linha
 pagina = readLines("https://www.astro.com/astro-databank/Lennon,_John")
 
