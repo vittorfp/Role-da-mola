@@ -26,7 +26,7 @@ Esses scripts são exemplos de raspagens para tirar dados de dentro de um docume
 [Nesse repositório](https://github.com/vittorfp/Wiki-Scrapping), tem um exemplo de raspagem pronta que eu fiz. Só falta arrumar algo pra fazer com os dados.
 
 # Outras coisas
-Recomendo o blog do Neylsom Crepalde [](http://neylsoncrepalde.github.io/). Tem coisas legais lá.
+Recomendo o [blog do Neylsom Crepalde](http://neylsoncrepalde.github.io/). Tem coisas legais lá.
 
 
 Abração,
